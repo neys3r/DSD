@@ -12,8 +12,6 @@ namespace WCFServices
 {
     public class Asesores : IAsesores
     {
-        //Prueba comentario
-
         private AsesorDAO asesorDAO = new AsesorDAO();
         public Asesor CrearAsesor(Asesor asesorACrear)
         {

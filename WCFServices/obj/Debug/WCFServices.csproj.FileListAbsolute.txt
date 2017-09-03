@@ -17,3 +17,22 @@ D:\EPE\Visual Studio 2015\Proyectos\servicio01\WCFServices\bin\Microsoft.Applica
 D:\EPE\Visual Studio 2015\Proyectos\servicio01\WCFServices\obj\Debug\WCFServices.dll
 D:\EPE\Visual Studio 2015\Proyectos\servicio01\WCFServices\obj\Debug\WCFServices.pdb
 D:\EPE\Visual Studio 2015\Proyectos\servicio01\WCFServices\bin\WCFServices.dll.config
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\ApplicationInsights.config
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\WCFServices.dll.config
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\WCFServices.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\WCFServices.pdb
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.Web.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.Web.xml
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.pdb
