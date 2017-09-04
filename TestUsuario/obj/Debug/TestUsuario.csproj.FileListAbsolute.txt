@@ -1,0 +1,16 @@
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\TestUsuario.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\TestUsuario.pdb
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.dll
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.pdb
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\TestUsuario.dll.config
