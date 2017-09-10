@@ -44,5 +44,10 @@ namespace WCFServices
         {
             return clienteDAO.Listar();
         }
+
+        public string Neyser()
+        {
+            return clienteDAO.Neyser();
+        }
     }
 }

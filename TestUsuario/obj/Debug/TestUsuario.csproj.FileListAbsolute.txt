@@ -14,3 +14,4 @@ C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.csprojResolve
 C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.dll
 C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.pdb
 C:\Users\Neyser\Source\Repos\DSD\TestUsuario\bin\Debug\TestUsuario.dll.config
+C:\Users\Neyser\Source\Repos\DSD\TestUsuario\obj\Debug\TestUsuario.csproj.CoreCompileInputs.cache
