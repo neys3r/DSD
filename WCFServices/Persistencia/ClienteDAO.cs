@@ -9,7 +9,7 @@ namespace WCFServices.Persistencia
 {
     public class ClienteDAO
     {
-        private string CadenaConexion = "Data Source=.\\SQLEXPRESS;Initial Catalog=VWallet;Integrated Security=True;";
+        private string CadenaConexion = "Data Source=.;Initial Catalog=VWallet;Integrated Security=True;";
 
         public Cliente Crear(Cliente clienteACrear) {
             Cliente clienteCreado = null;
@@ -161,12 +161,6 @@ namespace WCFServices.Persistencia
 
             return clientesEncontrados;
         }
-
-        public string Neyser()
-        {
-            return "Hola Mundo";
-        }
-        
 
     }
 }

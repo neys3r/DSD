@@ -36,4 +36,10 @@ C:\Users\Neyser\Source\Repos\DSD\WCFServices\bin\Microsoft.ApplicationInsights.x
 C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
 C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.dll
 C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.pdb
-C:\Users\Neyser\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\bin\ApplicationInsights.config
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\bin\WCFServices.dll.config
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\bin\WCFServices.dll
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\bin\WCFServices.pdb
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\u201501065\Source\Repos\DSD\WCFServices\obj\Debug\WCFServices.pdb

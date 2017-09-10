@@ -25,8 +25,5 @@ namespace WCFServices
 
         [OperationContract]
         List<Cliente> ListarClientes();
-
-        [OperationContract]
-        string Neyser();
     }
 }
